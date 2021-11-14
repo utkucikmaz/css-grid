@@ -29,6 +29,7 @@ body {
   font-size: 2rem;
   line-height: 3rem;
   text-align: justify;
+  overflow: hidden;
 }
 #description-1 {
   color: #9e7777;
